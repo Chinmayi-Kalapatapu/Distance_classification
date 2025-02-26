@@ -33,3 +33,17 @@ Cross validation is important as it prevents over-fitting. When the model is eva
 Variance is a measure of how precise or how close the model's measurements are compared to the measurements taken from all of the previous testing. Bias is a measure of how far/inaccurate the model's measurements/outputs are compared to the actual measurements.
 
 When k from KNN is too small, the model is more complex, there is a higher variance and an increased chance of overfitting risk. When k is too large, the model is simpler however there is a higher bias and underfitting risk.
+
+
+<img width="626" alt="image" src="https://github.com/user-attachments/assets/7f02cebd-0d34-4371-bfe8-8c16d3892ba0" />
+
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/d2b514de-3d41-4138-8cbc-7e183e35b503" />
+
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/a5251510-bc4f-4a9e-b7b6-3ce5b71fc240" />
+
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/8df43b14-8226-4dbe-bc2f-7f0cfedb13fe" />
+
+
+
+
+
